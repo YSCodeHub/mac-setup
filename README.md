@@ -15,7 +15,7 @@ Some environments we will set up are [Node](https://nodejs.org)
 Even if you don't program in all of them, they are useful to have as many
 command-line tools rely on them. We'll also show you some useful daily use
 applications. As you read and follow these steps, feel free to post any
-feedback or comments you may have.
+feedback or comments you may have not.
 
 ## Contributing to the guide
 
